@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="file" path="vault_blobs" />
+    <exclude domain="file" path="temp_playback" />
+    <exclude domain="database" path="hideu_encrypted_vault.db" />
+    <exclude domain="database" path="hideu_encrypted_vault.db-wal" />
+    <exclude domain="database" path="hideu_encrypted_vault.db-shm" />
+    <exclude domain="file" path="datastore" />
+</full-backup-content>

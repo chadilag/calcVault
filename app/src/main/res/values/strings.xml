@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HideU Calc</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="setup_pin_prompt">Set a 4 to 8 digit secret PIN, then press \'=\' to confirm</string>
+    <string name="confirm_pin_prompt">Re-enter your secret PIN and press \'=\' to verify</string>
+    <string name="calculator_ready_hint">Standard &amp; Scientific Calculator</string>
+    <string name="recovery_code_hint">Forgot PIN? Enter 11223344 and press \'=\'</string>
+    <string name="vault_dashboard_title">HideU Private Vault</string>
+    <string name="decoy_vault_badge">Decoy Mode</string>
+    <string name="nav_files">Vault Files</string>
+    <string name="nav_notes">Secret Notes</string>
+    <string name="nav_passwords">Passwords</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_security">Security</string>
+    <string name="quick_lock_desc">Quickly disguise back to calculator</string>
+    <string name="import_photo_video">Import Photos / Videos</string>
+    <string name="import_document">Import Document / Audio</string>
+    <string name="create_encrypted_canvas">Create Secret Snapshot</string>
+    <string name="empty_vault_title">Your Encrypted Vault is Empty</string>
+    <string name="empty_vault_subtitle">Import private photos, videos, or documents from your device, or create an encrypted snapshot directly inside the vault.</string>
+</resources>

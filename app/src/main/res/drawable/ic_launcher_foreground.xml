@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calculator outer body in safe zone (28..80) -->
+    <path
+        android:fillColor="#FF233253"
+        android:pathData="M34,24h40c3.31,0 6,2.69 6,6v48c0,3.31 -2.69,6 -6,6H34c-3.31,0 -6,-2.69 -6,-6V30c0,-3.31 2.69,-6 6,-6z" />
+    <!-- Calculator display window -->
+    <path
+        android:fillColor="#FF0A101D"
+        android:pathData="M34,30h40v14H34z" />
+    <!-- Cyan lock indicator inside display -->
+    <path
+        android:fillColor="#FF00E5FF"
+        android:pathData="M66,35h4v5h-4zM38,36h18v2H38z" />
+    <!-- Keypad row 1 -->
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M34,50h10v10H34zM49,50h10v10H49z" />
+    <path
+        android:fillColor="#FF00E5FF"
+        android:pathData="M64,50h10v10H64z" />
+    <!-- Keypad row 2 with orange '=' vault unlock key -->
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M34,65h10v10H34zM49,65h10v10H49z" />
+    <path
+        android:fillColor="#FFFF6B2C"
+        android:pathData="M64,65h10v10H64z" />
+</vector>
